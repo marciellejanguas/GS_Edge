@@ -7,6 +7,7 @@ Kauã Gabriel Moreira e Silva - RM 566043
 Marcielle Janguas Pina Carvalho - RM 561505
 
 Link de acesso ao simulador: https://wokwi.com/projects/432399340500621313
+Link de acesso ao vídeo explicativo: 
 
 Descrição:
 

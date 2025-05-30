@@ -1,3 +1,8 @@
+// Equipe: 
+// Kaike Correa de Sousa - RM 561623
+// Kauã Gabriel Moreira e Silva - RM 566043
+// Marcielle Janguas Pina Carvalho - RM 561505
+
 // Definição pinos
 const int trigPin = 9;
 const int echoPin = 8;
